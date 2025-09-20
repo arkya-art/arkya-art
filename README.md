@@ -35,7 +35,7 @@
 
 <p align="center">
   <b>Frameworks & MLOps Tools</b><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch, tensorflow, langchain, flask" alt="AI Frameworks"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i= langchain, flask" alt="AI Frameworks"></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,flink,prometheus,grafana,git,aws,fastapi,gcp" alt="MLOps Tools"></a>
 </p>
 
