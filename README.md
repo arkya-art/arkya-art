@@ -24,18 +24,18 @@
 <h2 align="center">My Tech Stack 🛠️</h2>
 
 <p align="center">
-  <b>Programming:</b><br>
+  <b>Programming</b><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,sql" alt="Programming Languages"></a>
 </p>
 
 <p align="center">
-  <b>AI/ML Concepts:</b><br>
+  <b>AI/ML Concepts</b><br>
   Generative AI • Deep Learning • Machine Learning • NLP • RAG • Prompt Engineering • LLM Fine-Tuning
 </p>
 
 <p align="center">
-  <b>Frameworks & MLOps Tools:</b><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,scikitlearn, flask" alt="AI Frameworks"></a>
+  <b>Frameworks & MLOps Tools</b><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch, tensorflow, langchain, flask" alt="AI Frameworks"></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,flink,prometheus,grafana,git,aws,fastapi,gcp" alt="MLOps Tools"></a>
 </p>
 
