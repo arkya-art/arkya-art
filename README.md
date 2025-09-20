@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>Programming</b><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,sql" alt="Programming Languages"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" alt="Programming Languages"></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 <p align="center">
   <b>Frameworks & MLOps Tools</b><br>
 
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,kafka,prometheus,grafana,git,aws,fastapi,gcp" alt="MLOps Tools"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,kafka,prometheus,grafana,git,aws,fastapi,gcp,anaconda,bash,django,github,heroku,htmx,js,jenkins,linux,nodejs,nginx,react" alt="MLOps Tools"></a>
 </p>
 
 <hr>
