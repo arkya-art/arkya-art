@@ -36,7 +36,7 @@
 <p align="center">
   <b>Frameworks & MLOps Tools</b><br>
 
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,kafka,flink,prometheus,grafana,git,aws,fastapi,gcp" alt="MLOps Tools"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,kafka,prometheus,grafana,git,aws,fastapi,gcp" alt="MLOps Tools"></a>
 </p>
 
 <hr>
